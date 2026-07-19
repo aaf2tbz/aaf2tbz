@@ -14,6 +14,7 @@ I build tools that sit close to the metal and interfaces that stay out of the wa
 [SharpWine](https://github.com/aaf2tbz/SharpWine) - 0-Rosetta Wine for MacOS, desginated to keeping 32 bit applications accessible after Apple drops Rosetta Support. 
 
 [SignetAI](https://github.com/Signet-AI/signetai) - Advanced Local Memory for Agents / LLM's, where you own the memory, not the Agent. 
+
 ---
 
 **the stack**
