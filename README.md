@@ -38,4 +38,4 @@
 **Connect**
 
 - [Github](https://github.com/aaf2tbz) · Colorado Springs, Colorado
-- [Email](averyfelts@aol.com) - Connect with me!
+- [Email](averyfelts@aol.com) - averyfelts@aol.com
