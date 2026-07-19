@@ -27,7 +27,7 @@ I build tools that sit close to the metal and interfaces that stay out of the wa
 
 ---
 
-**the details**
+**The Details**
 
 - Design-minded engineer — pixels matter as much as pointers
 - Happiest below the abstraction layer
