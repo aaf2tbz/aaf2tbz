@@ -1,10 +1,10 @@
 **Hey, I'm Avery 👋**
 
-- Developer & designer. Colorado Springs.
-- I build tools that sit close to the metal and interfaces that stay out of the way.
-- Committed to providing quality projects that remain free and accessible. 
 ---
 
+**Colorado Springs.** Developer of Highly-sophisticated Backend Systems, UI, Graphics Translations, and Machine Code. 
+
+___
 **Current Work**
 
 [Graphiq](https://github.com/aaf2tbz/graphiq) — use GraphIQ with agents to deeply search your projects, provide context with code, and reduce issues before they arrive. no embeddings, no LLM, single SQLite file.
@@ -15,16 +15,7 @@
 
 [SignetAI](https://github.com/Signet-AI/signetai) - Advanced Local Memory for Agents / LLM's, where you own the memory, not the Agent. 
 
----
-
-**The Stack**
-
-- `C` — where the truth lives
-- `Rust` — where the tools get built
-- `TypeScript` — where the UI ships
-- Machine Coding · UI · Backend
-
----
+___
 
 **The Details**
 
