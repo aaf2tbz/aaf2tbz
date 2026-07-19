@@ -37,5 +37,10 @@ ___
 
 **Connect**
 
-- [Github](https://github.com/aaf2tbz) · Colorado Springs, Colorado
-- [Email](averyfelts@aol.com) - averyfelts@aol.com
+<p>
+  <a href="https://github.com/aaf2tbz"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:averyfelts@aol.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/aaf2tbz"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+Colorado Springs, Colorado
