@@ -1,8 +1,8 @@
-Hey, I'm Avery 
+**Hey, I'm Avery 👋**
 
 - Developer & designer. Colorado Springs.
 - I build tools that sit close to the metal and interfaces that stay out of the way.
-
+- Committed to providing quality projects that remain free and accessible. 
 ---
 
 **Current Work**
@@ -22,7 +22,6 @@ Hey, I'm Avery
 - `C` — where the truth lives
 - `Rust` — where the tools get built
 - `TypeScript` — where the UI ships
-
 - Machine Coding · UI · Backend
 
 ---
@@ -36,7 +35,7 @@ Hey, I'm Avery
 
 ---
 
-**connect**
+**Connect**
 
-- [github](https://github.com/aaf2tbz) · Colorado Springs, Co
-- [Email](averyfelts@aol.com)
+- [github](https://github.com/aaf2tbz) · Colorado Springs, Colorado
+- [Email](averyfelts@aol.com) - Connect with me!
