@@ -2,7 +2,7 @@
 
 ---
 
-**Colorado Springs.** Developer of Highly-sophisticated Backend Systems, UI, Graphics Translations, and Machine Code. 
+**Colorado Springs.** Developer of Highly-sophisticated Backend Systems, UI/UX, Graphics Translations, and Machine Code. 
 
 ___
 **Current Work**
