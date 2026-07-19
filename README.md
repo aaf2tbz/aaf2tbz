@@ -1,7 +1,7 @@
-Hey, i'm Avery
+Hey, I'm Avery 
 
-Developer & designer. Colorado Springs.
-I build tools that sit close to the metal and interfaces that stay out of the way.
+- Developer & designer. Colorado Springs.
+- I build tools that sit close to the metal and interfaces that stay out of the way.
 
 ---
 
@@ -38,5 +38,5 @@ I build tools that sit close to the metal and interfaces that stay out of the wa
 
 **connect**
 
-[github](https://github.com/aaf2tbz) · Colorado Springs, Co
-[Email](averyfelts@aol.com)
+- [github](https://github.com/aaf2tbz) · Colorado Springs, Co
+- [Email](averyfelts@aol.com)
