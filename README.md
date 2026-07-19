@@ -2,7 +2,8 @@
 
 ---
 
-**Colorado Springs.** Developer of Highly-sophisticated Backend Systems, UI/UX, Graphics Translations, and Machine Code.
+
+**Developer of Highly-sophisticated Backend Systems, UI/UX, Graphics Translations, and Machine Code.**
 
 <p>
   <img src="https://img.shields.io/badge/C-white.svg?style=for-the-badge&logo=c&logoColor=black" alt="C" />
