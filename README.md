@@ -26,13 +26,6 @@ ___
 
 ___
 
-- Design-minded engineer — pixels matter as much as pointers
-- Happiest below the abstraction layer
-- Self-hosted where it counts
-- Keeping things accessible for everyone
-
----
-
 **Connect**
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaf2tbz)
