@@ -15,7 +15,6 @@
 </p>
 
 ___
-**Current Work**
 
 [Graphiq](https://github.com/aaf2tbz/graphiq) — use GraphIQ with agents to deeply search your projects, provide context with code, and reduce issues before they arrive. no embeddings, no LLM, single SQLite file.
 
@@ -26,8 +25,6 @@ ___
 [SignetAI](https://github.com/Signet-AI/signetai) - Advanced Local Memory for Agents / LLM's, where you own the memory, not the Agent. 
 
 ___
-
-**The Details**
 
 - Design-minded engineer — pixels matter as much as pointers
 - Happiest below the abstraction layer
