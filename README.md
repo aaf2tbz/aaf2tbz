@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
   <img src="https://img.shields.io/badge/Metal-FF8C00?style=for-the-badge&logo=apple&logoColor=white" alt="Metal" />
-  <img src="https://img.shields.io/badge/DirectX-0078D4.svg?style=for-the-badge&logo=directx&logoColor=white" alt="DirectX" />
+  <img src="https://img.shields.io/badge/DirectX-107C10.svg?style=for-the-badge&logo=directx&logoColor=white" alt="DirectX" />
 </p>
 
 ___
