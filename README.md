@@ -19,11 +19,11 @@ I build tools that sit close to the metal and interfaces that stay out of the wa
 
 **The Stack**
 
-[`C`] — where the truth lives
-[`Rust`] — where the tools get built
-[`TypeScript`] — where the UI ships
+- `C` — where the truth lives
+- `Rust` — where the tools get built
+- `TypeScript` — where the UI ships
 
-Machine Coding · UI · Backend
+- Machine Coding · UI · Backend
 
 ---
 
