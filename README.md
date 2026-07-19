@@ -44,4 +44,3 @@ ___
   <a href="https://www.reddit.com/user/loolemon/"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
 </p>
 
-Colorado Springs, Colorado
