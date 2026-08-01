@@ -1,4 +1,4 @@
-**Hey, I'm Avery 👋**
+**Hey, I'm Avery 👋** I make things work so you don't have to. 
 
 ---
 
