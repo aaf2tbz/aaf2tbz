@@ -22,6 +22,8 @@ ___
 
 [SignetAI](https://github.com/Signet-AI/signetai) - Advanced Local Memory for Agents / LLM's, where you own the memory, not the Agent. 
 
+[VKMT](https://github.com/aaf2tbz/VKMT) - A custom MetalSharp-made wine 11.12 with FEX requiring no rosetta to run.
+
 ___
 
 **Connect**
