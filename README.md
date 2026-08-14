@@ -1,9 +1,7 @@
-**Hey, I'm Avery 👋** I make things work so you don't have to. 
-
----
+**Hey, I'm Avery 👋**
 
 
-**Developer of Highly-sophisticated Backend Systems, UI/UX, Graphics Translations, and Machine Code.**
+**Developer of Backend Systems, UI/UX, Graphics Translations, and Machine Code.**
 
 <p>
   <img src="https://img.shields.io/badge/C-white.svg?style=for-the-badge&logo=c&logoColor=black" alt="" />
@@ -16,15 +14,15 @@
 
 ___
 
-[Graphiq](https://github.com/aaf2tbz/graphiq) — use GraphIQ with agents to deeply search your projects, provide context with code, and reduce issues before they arrive. No embeddings, no LLM, single SQLite file.
+[Graphiq](https://github.com/aaf2tbz/graphiq) — use GraphIQ with agents to deeply search your projects, provide context with code, and reduce issues before they arrive. No embeddings, no LLM, single SQLite file. Provides more context than grep. 
 
 [MetalSharp](https://github.com/aaf2tbz/metalsharp) - Use MetalSharp to play Windows Steam Games, GOG Games, and more. 
 
-[SignetAI](https://github.com/Signet-AI/signetai) - Advanced Local Memory for Agents / LLM's, where you own the memory, not the Agent. 
+[SignetAI](https://github.com/Signet-AI/signetai) - Co-Developer of Advanced Local Memory for Agents / LLM's, where you own the memory, not the Agent. Works with many different harnesses, models, and configurations. 
 
 [VKMT](https://github.com/aaf2tbz/VKMT) - A custom MetalSharp-made wine 11.12 with FEX requiring no rosetta to run.
 
-[BinC](https://github.com/aaf2tbz/binc) - A new kind of coding language, based on C / C# / Obj-C / C++ ; Acts as C, Runs as Metal. 
+[BinC](https://github.com/aaf2tbz/binc) - A new kind of coding language, based on C / C# / Obj-C / C++ ; Acts as C, Runs as Metal. My first novel project. 
 ___
 
 **Connect**
