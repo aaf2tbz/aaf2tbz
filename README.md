@@ -14,7 +14,7 @@
 
 ___
 
-[Graphiq](https://github.com/aaf2tbz/graphiq) — use GraphIQ with agents to deeply search your projects, provide context with code, and reduce issues before they arrive. No embeddings, no LLM, single SQLite file. Provides more context than grep. 
+[Graphiq](https://github.com/aaf2tbz/graphiq) — Deeply search your projects, provide context with code, and reduce issues before they arrive. No embeddings, no LLM, single SQLite file. Provides more context than grep. 
 
 [MetalSharp](https://github.com/aaf2tbz/metalsharp) - Use MetalSharp to play Windows Steam Games, GOG Games, and more. 
 
