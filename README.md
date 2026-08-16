@@ -22,7 +22,7 @@ ___
 
 [VKMT](https://github.com/aaf2tbz/VKMT) - A custom MetalSharp-made wine 11.12 with FEX requiring no rosetta to run.
 
-[VKD3D-Proton-MacOS](https://github.com/aaf2tbz/vkd3d-proton-macos) - D3D12 Support For MacOS eith VKD3D-Proton With a  Custom-Built MoltenVK.
+[VKD3D-Proton-MacOS](https://github.com/aaf2tbz/vkd3d-proton-macos) - D3D12 Support For MacOS With VKD3D-Proton With a  Custom-Built MoltenVK.
 
 [BinC](https://github.com/aaf2tbz/binc) - A new kind of coding language, based on C / C# / Obj-C / C++ ; Acts as C, Runs as Metal. My first novel project. 
 ___
