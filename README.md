@@ -14,17 +14,15 @@
 
 ___
 
-[Graphiq](https://github.com/aaf2tbz/graphiq) — Deeply search your projects, provide context with code, and reduce issues before they arrive. No embeddings, no LLM, single SQLite file. Provides more context than grep. 
+[Graphiq](https://github.com/aaf2tbz/graphiq) — Advanced computational indexed search, works with many harnesses and brings context with code search, not just string matching. 
 
-[MetalSharp](https://github.com/aaf2tbz/metalsharp) - Use MetalSharp to play Windows Steam Games, GOG Games, and more. 
+[MetalSharp](https://github.com/aaf2tbz/metalsharp) - Use MetalSharp to play Windows Steam, GOG, and Epic Games on MacOS Silicon with a Steam Deck inspired interface. 
 
-[SignetAI](https://github.com/Signet-AI/signetai) - Co-Developer of Advanced Local Memory for Agents / LLM's, where you own the memory, not the Agent. Works with many different harnesses, models, and configurations. 
+[SignetAI](https://github.com/Signet-AI/signetai) - Co-Developer of Advanced Local Memory for Agents / LLM's, Own Your Memory, and Transfer it across devices. 
 
-[VKMT](https://github.com/aaf2tbz/VKMT) - A custom MetalSharp-made wine 11.12 with FEX requiring no rosetta to run.
+[VKMT](https://github.com/aaf2tbz/VKMT) - Arm64ec Wine with FEX-Emu for Gaming on MacOS without Rosetta. 
 
-[VKD3D-Proton-MacOS](https://github.com/aaf2tbz/vkd3d-proton-macos) - D3D12 Support For MacOS With VKD3D-Proton Using a Custom-Built MoltenVK.
-
-[BinC](https://github.com/aaf2tbz/binc) - A new kind of coding language, based on C / C# / Obj-C / C++ ; Acts as C, Runs as Metal. My first novel project. 
+[VKD3D-Proton-MacOS](https://github.com/aaf2tbz/vkd3d-proton-macos) - D3D12 Fl 12_2 Support For MacOS Silicon With VKD3D-Proton Using a Custom-Built MoltenVK. 
 ___
 
 **Connect**
