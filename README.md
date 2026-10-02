@@ -23,6 +23,8 @@ ___
 [VKMT](https://github.com/aaf2tbz/VKMT) - Arm64ec Wine with FEX-Emu for Gaming on MacOS without Rosetta. 
 
 [VKD3D-Proton-MacOS](https://github.com/aaf2tbz/vkd3d-proton-macos) - D3D12 FL 12_2 Support For MacOS Silicon With VKD3D-Proton Using a Custom-Built MoltenVK. 
+
+[Hycel](https://github.com/aaf2tbz/hycel) - A 100% Rust Game Engine Usable by Real People and AI Agents
 ___
 
 **Connect**
