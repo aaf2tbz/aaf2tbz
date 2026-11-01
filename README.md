@@ -1,8 +1,5 @@
 **Hey, I'm Avery 👋**
 
-
-**I focus on all the parts of MacOS that no one else focuses on, just because it's hard. I think gaming should be provided for free, for all users, at my own expense. I strive to provide that free and supportive service to everyone, with the desire to progress MacOS gaming as a whole and build a community that looks forwards to the next update. I founded MetalSharp for this reason - I hope you believe in my progress in this space as much as I do.**
-
 <p>
   <img src="https://img.shields.io/badge/C-white.svg?style=for-the-badge&logo=c&logoColor=black" alt="" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
