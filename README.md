@@ -1,7 +1,7 @@
 **Hey, I'm Avery 👋**
 
 
-**Developer of Backend Systems, UI/UX, Graphics Translations, and Machine Code.**
+**I focus on all the parts of MacOS that no one else focuses on, just because it's hard. I think gaming should be provided for free, for all users, at my own expense. I strive to provide that free and supportive service to everyone, with the desire to progress MacOS gaming as a whole and build a community that looks forwards to the next update.**
 
 <p>
   <img src="https://img.shields.io/badge/C-white.svg?style=for-the-badge&logo=c&logoColor=black" alt="" />
@@ -22,7 +22,9 @@ ___
 
 [VKMT](https://github.com/aaf2tbz/VKMT) - Arm64ec Wine with FEX-Emu for Gaming on MacOS without Rosetta. 
 
-[VKD3D-Proton-MacOS](https://github.com/aaf2tbz/vkd3d-proton-macos) - D3D12 FL 12_2 Support For MacOS Silicon With VKD3D-Proton Using a Custom-Built MoltenVK. 
+[VKD3D-Proton-MacOS](https://github.com/aaf2tbz/vkd3d-proton-macos) - D3D12 FL 12_2 Support For MacOS Silicon With VKD3D-Proton Using a Custom-Built Universal MoltenVK. 
+
+[Mullion](https://github.com/dttdrv/mullion) - A DXMT fork supporting D3D12 for Arm64 / x86_64 Wine's. I am an active contributor here and I strongly believe in this project's advancement overtime. 
 ___
 
 **Connect**
