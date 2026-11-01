@@ -20,7 +20,7 @@ ___
 
 [SignetAI](https://github.com/Signet-AI/signetai) - Co-Developer of Advanced Local Memory for Agents / LLM's, Own Your Memory, and Transfer it across devices. 
 
-[VKMT](https://github.com/aaf2tbz/VKMT) - Arm64ec Wine with FEX-Emu for Gaming on MacOS without Rosetta. 
+[MetalSharp Wine](https://github.com/metalsharp/MetalSharp-Wine) - Arm64ec Wine with FEX-Emu for Gaming on MacOS without Rosetta. 
 
 [VKD3D-Proton-MacOS](https://github.com/aaf2tbz/vkd3d-proton-macos) - D3D12 FL 12_2 Support For MacOS Silicon With VKD3D-Proton Using a Custom-Built Universal MoltenVK. 
 
