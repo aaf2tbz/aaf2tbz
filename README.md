@@ -14,11 +14,11 @@
 
 ___
 
-[Graphiq](https://github.com/aaf2tbz/graphiq) — Advanced computational indexed search, works with many harnesses and brings context with code search, not just string matching. 
+[Graphiq](https://github.com/aaf2tbz/graphiq) — Advanced computational indexed search, works with many harnesses and brings context with code search, not just string matching (Like Grep / RGrep). 
 
 [MetalSharp](https://github.com/aaf2tbz/metalsharp) - Use MetalSharp to play Windows Steam, GOG, and Epic Games on MacOS Silicon with a Steam Deck inspired interface. 
 
-[SignetAI](https://github.com/Signet-AI/signetai) - Co-Developer of Advanced Local Memory for Agents / LLM's, Own Your Memory, and Transfer it across devices. 
+[SignetAI](https://github.com/Signet-AI/signetai) - Co-Developer of Advanced Local Memory for Agents / LLM's, Own Your Memory, and Transfer it across devices. Works with a multitude of different harnesses and single / team dev applications. 
 
 [MetalSharp Wine](https://github.com/metalsharp/MetalSharp-Wine) - Arm64ec Wine with FEX-Emu for Windows Gaming on MacOS without Rosetta. 
 
