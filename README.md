@@ -1,7 +1,10 @@
 **Hey, I'm Avery 👋**
 
+
 I am a graduated software engineer who believes in providing free and powerful software for the everyday person. While most people believe in charging for software, I believe everything should be open-sourced, inspectable, and open to the general public. Not locked behind a paywall. My main focus of development lies in windows compatibility layers for MacOS and other MacOS related programs. 
 
+<div>
+  
 <p>
   <img src="https://img.shields.io/badge/C-white.svg?style=for-the-badge&logo=c&logoColor=black" alt="" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -10,6 +13,8 @@ I am a graduated software engineer who believes in providing free and powerful s
   <img src="https://img.shields.io/badge/Metal-7B1FA2?style=for-the-badge&logo=apple&logoColor=white" alt="Metal" />
   <img src="https://img.shields.io/badge/DirectX-107C10.svg?style=for-the-badge&logo=directx&logoColor=white" alt="DirectX" />
 </p>
+
+</div>
 
 ___
 
