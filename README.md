@@ -11,7 +11,9 @@
 
 ___
 
-[Graphiq](https://github.com/aaf2tbz/graphiq) — Advanced computational indexed search, works with many harnesses and brings context with code search, not just string matching (Like Grep / RGrep). 
+[MetalVR](https://github.com/metalsharp/MetalVR) - Use MetalVR to play VR Games through Wine with Mullion as the renderer. 
+
+[WineMetalGL](https://github.com/metalsharp/WineMetalGL) - OpenGL 1.0 -> 4.6 to Metal, and GLES 2.0 -> 3.2 to Metal For Wine x86_64 / Wine Arm64EC and Native MacOS Arm64. 
 
 [MetalSharp](https://github.com/aaf2tbz/metalsharp) - Use MetalSharp to play Windows Steam, GOG, and Epic Games on MacOS Silicon with a Steam Deck inspired interface. 
 
@@ -21,7 +23,7 @@ ___
 
 [VKD3D-Proton-MacOS](https://github.com/aaf2tbz/vkd3d-proton-macos) - D3D12 FL 12_2 Support For MacOS Silicon With VKD3D-Proton Using a Custom-Built Universal MoltenVK. 
 
-[Mullion](https://github.com/dttdrv/mullion) - A DXMT fork supporting D3D12 for Arm64 / x86_64 Wine's. I am an active contributor here and I strongly believe in this project's advancement overtime. 
+[Mullion](https://github.com/dttdrv/mullion) - A DXMT fork supporting D3D12, DLSS, and Frame Generation for Arm64 / x86_64 Wine's. I am an active contributor here and I strongly believe in this project's advancement overtime. 
 ___
 
 **Connect**
