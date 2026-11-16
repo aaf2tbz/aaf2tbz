@@ -1,6 +1,6 @@
 **Hey, I'm Avery 👋**
 
-I am a graduated software engineer who believes in providing free and powerful software for the everyday person. While most people believe in charging for software, I believe everything should be open-sourced, inspectable, and open to the general public. Not locked behind a paywall. 
+I am a graduated software engineer who believes in providing free and powerful software for the everyday person. While most people believe in charging for software, I believe everything should be open-sourced, inspectable, and open to the general public. Not locked behind a paywall. My main focus of development lies in windows compatibility layers for MacOS and other MacOS related programs. 
 
 <p>
   <img src="https://img.shields.io/badge/C-white.svg?style=for-the-badge&logo=c&logoColor=black" alt="" />
